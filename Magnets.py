@@ -14,7 +14,4 @@ for i in range(0,n):
         else:
             count+=1
         magType=magnetType[i]
-
-
-
 print(count)
