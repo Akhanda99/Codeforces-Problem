@@ -1,5 +1,6 @@
 forceNumber = int(input())
 forceValue=[]
+
 for i in range(forceNumber):
     forceValue.append(list(map(int,input().strip().split())))
 count = 0
