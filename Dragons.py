@@ -1,5 +1,4 @@
 s,n=map(int,input().strip().split())
-
 l=[]
 count=0
 for i in range(0,n):
